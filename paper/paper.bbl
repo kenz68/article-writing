@@ -1,0 +1,153 @@
+\begin{thebibliography}{10}
+
+\bibitem{Alon1999}
+Noga Alon, Yossi Matias, and Mario Szegedy.
+\newblock The space complexity of approximating the frequency moments.
+\newblock {\em Journal of Computer and System Sciences}, 58(1):137 -- 147, 1999.
+
+\bibitem{Metwally2008}
+Ahmed Metwally, Divyakant Agrawal, and Amr~El Abbadi.
+\newblock Why go logarithmic if we can go linear?: Towards effective distinct counting of search traffic.
+\newblock In {\em Proceedings of the 11th International Conference on Extending Database Technology: Advances in Database Technology}, pages 618--629, Nantes, France, March 2008.
+
+\bibitem{Ting2014}
+Daniel Ting.
+\newblock Streamed approximate counting of distinct elements: Beating optimal batch methods.
+\newblock In {\em Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pages 442--451, New York, NY, USA, August 2014.
+
+\bibitem{Kane2010}
+Daniel~M. Kane, Jelani Nelson, and David~P. Woodruff.
+\newblock An optimal algorithm for the distinct elements problem.
+\newblock In {\em Proceedings of the 29th ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems}, pages 41--52, Indianapolis, IN, USA, June 2010.
+
+\bibitem{Indyk2003}
+Piotr Indyk and David Woodruff.
+\newblock Tight lower bounds for the distinct elements problem.
+\newblock In {\em Proceedings of the 44th Annual IEEE Symposium on Foundations of Computer Science}, pages 283--288, Cambridge, MA, USA, October 2003.
+
+\bibitem{Flajolet2007}
+Philippe Flajolet, Éric Fusy, Olivier Gandouet, and Frédéric Meunier.
+\newblock Hyperloglog: The analysis of a near-optimal cardinality estimation algorithm.
+\newblock In {\em Proceedings of the 13th Conference on Analysis of Algorithms}, pages 127--146, Juan des Pins, France, June 2007.
+
+\bibitem{Heule2013}
+Stefan Heule, Marc Nunkesser, and Alexander Hall.
+\newblock Hyperloglog in practice: Algorithmic engineering of a state of the art cardinality estimation algorithm.
+\newblock In {\em Proceedings of the 16th International Conference on Extending Database Technology}, pages 683--692, Genoa, Italy, March 2013.
+
+\bibitem{Rhodes2015}
+Lee Rhodes.
+\newblock System and method for enhanced accuracy cardinality estimation, September~24 2015.
+\newblock US Patent 20,150,269,178.
+
+\bibitem{Sanfilippo2014}
+Salvatore Sanfilippo.
+\newblock Redis new data structure: The {HyperLogLog}.
+\newblock {\url{http://antirez.com/news/75}}, 2014.
+
+\bibitem{Cohen2014}
+Edith Cohen.
+\newblock All-distances sketches, revisited: {HIP} estimators for massive graphs analysis.
+\newblock In {\em Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems}, pages 88--99, New York, NY, USA, 2014.
+
+\bibitem{Chen2011}
+Aiyou Chen, Jin Cao, Larry Shepp, and Tuan Nguyen.
+\newblock Distinct counting with a self-learning bitmap.
+\newblock {\em Journal of the American Statistical Association}, 106(495):879--890, 2011.
+
+\bibitem{Beyer2007}
+Kevin Beyer, Peter~J. Haas, Berthold Reinwald, Yannis Sismanis, and Rainer Gemulla.
+\newblock On synopses for distinct-value estimation under multiset operations.
+\newblock In {\em Proceedings of the 26th ACM SIGMOD International Conference on Management of Data}, pages 199--210, Beijing, China, June 2007.
+
+\bibitem{Dasgupta2015}
+Anirban Dasgupta, Kevin Lang, Lee Rhodes, and Justin Thaler.
+\newblock A framework for estimating stream expression cardinalities.
+\newblock {\em arXiv preprint arXiv:1510.01455}, 2015.
+
+\bibitem{Pascoe2013}
+Andrew Pascoe.
+\newblock Hyperloglog and {M}in{H}ash - {A} union for intersections.
+\newblock {\url{http://tech.adroll.com/media/hllminhash.pdf}}, 2013.
+
+\bibitem{Cohen2016}
+Reuven Cohen, Liran Katzir, and Aviv Yehezkel.
+\newblock A minimal variance estimator for the cardinality of big data set intersection.
+\newblock {\em arXiv preprint arXiv:1606.00996}, 2016.
+
+\bibitem{Flajolet1985}
+Philippe Flajolet and G.~Nigel Martin.
+\newblock Probabilistic counting algorithms for data base applications.
+\newblock {\em Journal of Computer and System Sciences}, 31(2):182 -- 209, 1985.
+
+\bibitem{Whang1990}
+Kyu-Young Whang, Brad~T. Vander-Zanden, and Howard~M. Taylor.
+\newblock A linear-time probabilistic counting algorithm for database applications.
+\newblock {\em ACM Transactions on Database Systems}, 15(2):208--229, 1990.
+
+\bibitem{Jacquet1998}
+Philippe Jacquet and Wojciech Szpankowski.
+\newblock Analytical depoissonization and its applications.
+\newblock {\em Theoretical Computer Science}, 201(1):1--62, 1998.
+
+\bibitem{Durand2003}
+Marianne Durand and Philippe Flajolet.
+\newblock Loglog counting of large cardinalities.
+\newblock In {\em Proceedings of the 11th Annual European Symposium on Algorithms}, pages 605--617, Budapest, Hungary, September 2003.
+
+\bibitem{Casella2002}
+George Casella and Roger~L. Berger.
+\newblock {\em Statistical inference}.
+\newblock Duxbury, Pacific Grove, CA, USA, 2nd edition, 2002.
+
+\bibitem{Clifford2012}
+Peter Clifford and Ioana~A. Cosma.
+\newblock A statistical analysis of probabilistic counting algorithms.
+\newblock {\em Scandinavian Journal of Statistics}, 39(1):1--14, 2012.
+
+\bibitem{Ting2016}
+Daniel Ting.
+\newblock Towards optimal cardinality estimation of unions and intersections with sketches.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD Conference on Knowledge and Data Mining}, pages 1195--1204, San Francisco, CA, USA, August 2016.
+
+\bibitem{Press2007}
+William~H. Press.
+\newblock {\em Numerical recipes 3rd edition: The art of scientific computing}.
+\newblock Cambridge University Press, 2007.
+
+\bibitem{King2009}
+Davis~E. King.
+\newblock Dlib-ml: A machine learning toolkit.
+\newblock {\em Journal of Machine Learning Research}, 10:1755--1758, 2009.
+
+\bibitem{Leskovec2014}
+Jure Leskovec, Anand Rajaraman, and Jeffrey~David Ullman.
+\newblock {\em Mining of massive datasets}.
+\newblock Cambridge University Press, 2014.
+
+\bibitem{Wang2014}
+Jingdong Wang, Heng~Tao Shen, Jingkuan Song, and Jianqiu Ji.
+\newblock Hashing for similarity search: A survey.
+\newblock {\em arXiv preprint arXiv:1408.2927}, 2014.
+
+\bibitem{Charikar2002}
+Moses~S. Charikar.
+\newblock Similarity estimation techniques from rounding algorithms.
+\newblock In {\em Proceedings of the 34th Annual ACM Symposium on Theory of Computing}, pages 380--388, Montreal, Canada, May 2002.
+
+\bibitem{Broder1997}
+Andrei~Z. Broder.
+\newblock On the resemblance and containment of documents.
+\newblock In {\em Proceedings of the Compression and Complexity of Sequences}, pages 21--29, Positano, Italy, June 1997.
+
+\bibitem{Li2011}
+Ping Li and Arnd~Christian K\"{o}nig.
+\newblock Theory and applications of b-bit minwise hashing.
+\newblock {\em Communications of the ACM}, 54(8):101--109, 2011.
+
+\bibitem{Li2012}
+Ping Li, Art Owen, and Cun hui Zhang.
+\newblock One permutation hashing.
+\newblock {\em Advances in Neural Information Processing Systems}, 25:3113--3121, 2012.
+
+\end{thebibliography}
