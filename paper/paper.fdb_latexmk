@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex paper"] 1713845721 "paper.aux" "paper.bbl" "paper" 1713845735 0
+["bibtex paper"] 1713865294 "paper.aux" "paper.bbl" "paper" 1713865304 0
   "./bibliography.bib" 1621318664 29364 644793cb78046167d43575c16180c036 ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/base/unsrt.bst" 1683797342 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "paper.aux" 1713845732 55017 724615e34d2801089c06fd49f23bd6a2 "pdflatex"
+  "paper.aux" 1713865302 55017 724615e34d2801089c06fd49f23bd6a2 "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1713845722 "d:/studying/article-writing/paper/paper.tex" "paper.pdf" "paper" 1713845735 0
+["pdflatex"] 1713865295 "d:/studying/article-writing/paper/paper.tex" "paper.pdf" "paper" 1713865304 0
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1683797796 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1683799180 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1683798617 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -191,9 +191,9 @@
   "max_likelihood_estimate_22_10.pdf" 1621318664 135649 4f7bbc23afc31f0911d565eb93aa4386 ""
   "max_likelihood_estimate_8_24.pdf" 1621318664 130670 66688a73bc91573a04a5433328ae4c43 ""
   "original_estimate.pdf" 1621318664 124184 d1b9f440fcb52fe8f164b6cb45c9930a ""
-  "paper.aux" 1713845732 55017 724615e34d2801089c06fd49f23bd6a2 "pdflatex"
-  "paper.bbl" 1713845722 6910 768155093316832571d0f4dbc1e38fae "bibtex paper"
-  "paper.out" 1713845726 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "paper.aux" 1713865302 55017 724615e34d2801089c06fd49f23bd6a2 "pdflatex"
+  "paper.bbl" 1713865295 6910 768155093316832571d0f4dbc1e38fae "bibtex paper"
+  "paper.out" 1713865297 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "paper.tex" 1621318664 174008 c56ccc4639666e879618d8662c0d02a1 ""
   "power-series-function-minus-1.pdf" 1621318664 20702 41218bde6636b82e2162bd8f3ab48d1f ""
   "raw_corrected_estimate_12_14.pdf" 1621318664 112853 184f166b664b823d5dd855f108b0ac46 ""

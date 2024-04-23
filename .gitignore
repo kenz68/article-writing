@@ -323,3 +323,11 @@ TSWLatexianTemp*
 #*Notes.bib
 
 *\*.aux
+**/**.pdf
+paper/paper.bbl
+paper/paper.fls
+paper/paper.pdf
+paper/paper.synctex.gz
+paper/paper.fdb_latexmk
+paper/paper.log
+paper/paper.pdf
