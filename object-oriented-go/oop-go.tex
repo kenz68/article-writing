@@ -50,5 +50,15 @@ like this:
 \begin{quote}
   \colorbox{lightgray}{var company Company = newCompany("MyCompany", "india")}
 \end{quote}
-
+\begin{quote}
+  Note: Function overloading isn't supported in Go. So to create multiple
+  implementations we would have to create multiple functions of different names.
+\end{quote}
+Futher, we want to save a company to the database. We can create a method of \textit{Company} struct,
+for this purpose:
+\begin{quote}
+  func(company Company) saveToDatabase() \{\\
+  \textbf{\textrightarrow}fmt.Println("Saving Company")\\
+  \}
+\end{quote}
 \end{document}
