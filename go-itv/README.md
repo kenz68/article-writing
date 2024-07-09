@@ -41,7 +41,7 @@ The leader in the Go Distribution "Golang", Google clarifies that these are not 
 ## GOPATH
 The GOPATH environment variable plays a pivotal role. It is the starting point for finding Go code, and all the mentioned directories reside within it. Under the $GOPATH/src directory, the Go tool expects to see your application source packages.
 ### **"go get"** Utility
-This command is a critical tool for Golang developers. You can use it to fetch and manage dependencies from remote repositories like Github. For instance, if you run **`go get github.com/gorilla/mx`**, it will fetch the mux package from Github and save it in your $GOPATH.
+This command is a critical tool for Golang developers. You can use it to fetch and manage dependencies from remote repositories like Github. For instance, if you run **`go get github.com/gorilla/mux`**, it will fetch the mux package from Github and save it in your $GOPATH.
 
 Following the Go community's best practices, ensure that you have "go.mod" and "go.sum" files at the root of your project. The **"go.mod"** file maintains module registration and dependency requirements, while the **"go.sum"** file records the version of the dependencies.
 ### Example Paths
@@ -57,7 +57,7 @@ For **version control systems**:
 - **Local Repositories**: If your repository is local and not connected to a remote VCS service, you could use any import path structure.
 ### Best Practices
 - Combine all your codebases **under a version control system** for easy management and deployment.
--Keep **external dependencies** outside the $GOPATH, possibly using a package manager.
+- Keep **external dependencies** outside the $GOPATH, possibly using a package manager.
 ### Plaintext Go Get Example: Fetching the "mux" package
 ```plaintext
 $ go get github.com/gorilla/mux
